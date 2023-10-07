@@ -1,4 +1,4 @@
-# Gaussian Elimination with Row Pivoting
+# Gaussian Elimination
 
 ## Overview
 
