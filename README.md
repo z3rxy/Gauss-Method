@@ -20,3 +20,33 @@ This repository contains a C++ program that solves a system of linear equations 
 
    ```bash
    git clone https://github.com/z3rxy/Gauss-Method.git
+
+2. **Navigate to the project directory**:
+cd Gauss-Method
+
+3. **Compile the C++ program**: Compile the program using the following command:
+g++ Gauss_method.cpp -o Gauss_method
+
+4. **Run the program**: Execute the program with the following command:
+./Gauss_method
+
+5. **Input your matrix**: Follow the on-screen prompts to input the coefficients of your matrix.
+
+## Example
+
+Suppose you have the following system of linear equations:
+2x + 3y - z = 1
+4x + y + 2z = 2
+3x + 2y + 3z = 3
+Enter these coefficients into the program as in the following example:
+2 3 -1
+4 1 2
+3 2 3
+Then enter the coefficients of the vector on the right side:
+1
+2
+3
+After executing the program, you will receive an answer to your system of equations in the form:
+x[1] = 0.08
+x[2] = 0.48
+x[3] = 0.6
