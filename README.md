@@ -19,4 +19,4 @@ This repository contains a C++ program that solves a system of linear equations 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/gaussian-elimination.git
+   git clone https://github.com/z3rxy/Gauss-Method.git
