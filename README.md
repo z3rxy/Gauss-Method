@@ -34,19 +34,19 @@ g++ Gauss_method.cpp -o Gauss_method
 
 ## Example
 
-Suppose you have the following system of linear equations:
-2x + 3y - z = 1
-4x + y + 2z = 2
-3x + 2y + 3z = 3
-Enter these coefficients into the program as in the following example:
-2 3 -1
-4 1 2
-3 2 3
-Then enter the coefficients of the vector on the right side:
-1
-2
-3
-After executing the program, you will receive an answer to your system of equations in the form:
-x[1] = 0.08
-x[2] = 0.48
-x[3] = 0.6
+1. Suppose you have the following system of linear equations:  
+2x + 3y - z = 1  
+4x + y + 2z = 2  
+3x + 2y + 3z = 3  
+2. Enter these coefficients into the program as in the following example:  
+2 3 -1  
+4 1 2  
+3 2 3  
+3. Then enter the coefficients of the vector on the right side:  
+1  
+2  
+3  
+4. After executing the program, you will receive an answer to your system of equations in the form:  
+x[1] = 0.08  
+x[2] = 0.48  
+x[3] = 0.6  
