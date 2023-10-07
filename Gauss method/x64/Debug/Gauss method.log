@@ -1,0 +1,3 @@
+﻿  Gauss_method.cpp
+C:\Users\upsid\source\repos\Git\Task1207\Gauss method\Gauss method\Gauss_method.cpp(20,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Gauss method.vcxproj -> C:\Users\upsid\source\repos\Git\Task1207\Gauss method\x64\Debug\Gauss method.exe
